@@ -1,6 +1,6 @@
 import random
 
-print('------------------我爱鱼C工作室------------------')
+print('------------------ZhengWen工作室------------------')
 
 times = 3
 secret = random.randint(1,10)
